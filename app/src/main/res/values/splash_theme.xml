@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MiniAndroid.Splash" parent="Theme.IToysAndroid">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <!--<item name="android:windowDisablePreview">true</item>-->
+        <item name="android:windowBackground">@drawable/app_splash_layers</item>
+    </style>
+</resources>

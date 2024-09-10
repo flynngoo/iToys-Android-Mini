@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@color/uikit_colorful_white" />
+
+    <!-- 样式修改 -->
+    <item android:top="95dp">
+
+        <bitmap
+            android:gravity="center_horizontal|top"
+            android:src="@drawable/app_splash_logo"
+            android:tileMode="disabled" />
+    </item>
+</layer-list>
